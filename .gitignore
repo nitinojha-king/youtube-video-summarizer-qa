@@ -42,6 +42,12 @@ Thumbs.db
 *.bak
 *.orig
 
+# College / Academic Synopsis Documents (Local only)
+*.docx
+*.doc
+*synopsis*
+*synonims*
+
 # Cache directories
 .freebuff/
 .playwright-mcp/

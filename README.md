@@ -148,8 +148,6 @@ Follow the prompts in the terminal to enter a video URL, view the generated summ
 ├── .gitignore                         # Git exclusion rules
 ├── .streamlit/
 │   └── config.toml                    # Streamlit styling & theme configuration
-├── btech_mini_project_synonims.docx   # Academic project synopsis document
-├── BTech_Project_Synopsis_Format.docx # Academic project synopsis format
 └── README.md                          # Project documentation
 ```
 
