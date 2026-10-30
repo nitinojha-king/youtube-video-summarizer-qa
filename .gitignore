@@ -1,0 +1,47 @@
+# Python Environment & Virtualenv
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# Streamlit logs & temporary files
+.streamlit/server.pid
+.streamlit/stderr.log
+.streamlit/stdout.log
+.streamlit/secrets.toml
+
+# Media, Audio, Video & Part Downloads
+*.part
+*.webm
+*.m4a
+*.mp3
+*.mp4
+*.wav
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary Word / Office Lock Files
+~$*
+~WRL*
+*.tmp
+*.bak
+*.orig
+
+# Cache directories
+.freebuff/
+.playwright-mcp/
